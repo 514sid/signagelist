@@ -1,0 +1,66 @@
+{
+  "source": "Screen Keep",
+  "fetched_at": "2026-06-16T10:17:17.790Z",
+  "items": [
+    {
+      "title": "How to Keep an Android Screen Awake for Displays, Dashboards, and Kiosks",
+      "link": "https://www.screenkeep.com/blog/keep-android-screen-awake/",
+      "date": "2026-06-12T00:00:00.000Z",
+      "description": "Learn how to keep an Android screen awake for phones, tablets, Android TV, Google TV, dashboards, kiosks, menus, and other always-on display workflows."
+    },
+    {
+      "title": "Raspberry Pi Digital Signage: Why DIY Pi Setups Get Painful Fast",
+      "link": "https://www.screenkeep.com/blog/raspberry-pi-digital-signage/",
+      "date": "2026-05-14T00:00:00.000Z",
+      "description": "Compare Raspberry Pi digital signage with Screen Keep for DIY signage, no-subscription signage, webpage displays, menus, dashboards, and small business screens."
+    },
+    {
+      "title": "Chromecast Digital Signage: What Works and What to Avoid",
+      "link": "https://www.screenkeep.com/blog/chromecast-digital-signage/",
+      "date": "2026-04-30T00:00:00.000Z",
+      "description": "A practical Chromecast digital signage guide covering Cast-only devices, Chromecast with Google TV, Google TV Streamer, Android TV hardware, and how Screen Keep fits."
+    },
+    {
+      "title": "Simple Digital Signage Pricing: Free Trial, One-Time Purchase, or Online Management",
+      "link": "https://www.screenkeep.com/blog/saas-is-dead/",
+      "date": "2026-03-23T00:00:00.000Z",
+      "description": "The SaaS backlash is real for simple digital signage. If you already have a webpage, Screen Keep lets you try it free, buy it once, and keep it forever."
+    },
+    {
+      "title": "Web Page Signage vs Full Digital Signage CMS: Which One Do You Actually Need?",
+      "link": "https://www.screenkeep.com/blog/web-page-signage-vs-digital-signage-cms/",
+      "date": "2026-03-14T00:00:00.000Z",
+      "description": "Compare web page signage and full digital signage CMS platforms honestly so you can decide when simple screen workflows are enough and when enterprise complexity is worth it."
+    },
+    {
+      "title": "Built Your Own Web Page? Here’s the Easiest Way to Turn It Into a Digital Sign",
+      "link": "https://www.screenkeep.com/blog/turn-webpage-into-digital-signage/",
+      "date": "2026-03-10T00:00:00.000Z",
+      "description": "A practical guide for turning an existing webpage into digital signage, with tips for readability, setup, refresh, and choosing the right playback workflow."
+    },
+    {
+      "title": "AI Website Builders Are Making DIY Digital Signage Possible",
+      "link": "https://www.screenkeep.com/blog/ai-website-builders-diy-digital-signage/",
+      "date": "2026-03-05T00:00:00.000Z",
+      "description": "Learn how AI website builders fit into DIY digital signage, where they help, where they do not, and how to move from generated page to usable TV display."
+    },
+    {
+      "title": "How Much Does Digital Signage Cost? DIY vs SaaS vs Enterprise",
+      "link": "https://www.screenkeep.com/blog/digital-signage-cost-guide/",
+      "date": "2026-03-01T00:00:00.000Z",
+      "description": "Compare digital signage costs by pricing model, cost per screen, software, hardware, content work, and when a simpler web-page signage setup is enough."
+    },
+    {
+      "title": "Digital Signage Without a Subscription: No Monthly Fee Buying Guide",
+      "link": "https://www.screenkeep.com/blog/digital-signage-without-subscription/",
+      "date": "2026-02-24T00:00:00.000Z",
+      "description": "A practical no-monthly-fee digital signage guide covering one-time options, digital signage players without subscriptions, and when recurring software still makes sense."
+    },
+    {
+      "title": "Android TV Digital Signage Setup: The Easy Low-Cost Way to Run Web-Based Screens",
+      "link": "https://www.screenkeep.com/blog/android-tv-digital-signage/",
+      "date": "2026-02-18T00:00:00.000Z",
+      "description": "A practical Android TV digital signage setup guide covering hardware, pairing, web-page workflows, and what matters most for simple screen deployments."
+    }
+  ]
+}
