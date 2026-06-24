@@ -1,6 +1,6 @@
 {
   "source": "Fyresign",
-  "fetched_at": "2026-06-23T08:36:04.749Z",
+  "fetched_at": "2026-06-24T08:30:20.038Z",
   "items": [
     {
       "title": "Software that makes a difference",
@@ -85,6 +85,12 @@
       "link": "https://fyresign.com/en/what-is-digital-signage",
       "date": "",
       "description": "Digital signage transforms screens into powerful communication channels, allowing organizations to manage and update content from one central platform. Discover how it work and why it outperforms sta…"
+    },
+    {
+      "title": "Digital signage integrations",
+      "link": "https://fyresign.com/en/digital-signage-integrations",
+      "date": "",
+      "description": "Fyresign connects with SharePoint, PowerBI, Google Workplace, Social meida, and more - keeping your screens automatically updated without manual effort."
     }
   ]
 }
