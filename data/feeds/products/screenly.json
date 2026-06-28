@@ -1,12 +1,24 @@
 {
   "source": "Screenly",
-  "fetched_at": "2026-06-27T07:57:33.169Z",
+  "fetched_at": "2026-06-28T08:29:53.027Z",
   "items": [
+    {
+      "title": "Connect Screenly players to 802.1x networks",
+      "link": "https://www.screenly.io/blog/2026/06/23/connect-screenly-players-to-802.1x-networks/",
+      "date": "2026-06-23T00:00:00.000Z",
+      "description": "<p>Screenly players can now connect to 802.1x authenticated networks. This covers both Wi-Fi and wired ethernet connections, including configurations with static IPs. You set it up directly through t…"
+    },
     {
       "title": "Screenly is now a certified CMS provider for the Amazon Signage Stick",
       "link": "https://www.screenly.io/blog/2026/06/15/screenly-anywhere-amazon-signage-stick/",
       "date": "2026-06-15T00:00:00.000Z",
       "description": "<p>You can now use the <a href=&#34;https://signage.amazon.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;>Amazon Signage Stick</a> with Screenly to simplify your digital signage.…"
+    },
+    {
+      "title": "ScreenlyOS 26.6.0: What&#39;s New",
+      "link": "https://www.screenly.io/blog/2026/06/15/screenlyos-26.6.0/",
+      "date": "2026-06-15T00:00:00.000Z",
+      "description": "<p>We&rsquo;ve been busy making your Screenly experience smoother, more reliable, and easier to manage. This update is packed with improvements, from better screen control to audio that just works. H…"
     },
     {
       "title": "Screenly Anywhere now supports Crestron AirMedia®",
