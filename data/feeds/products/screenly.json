@@ -1,7 +1,13 @@
 {
   "source": "Screenly",
-  "fetched_at": "2026-06-29T09:55:38.043Z",
+  "fetched_at": "2026-06-30T08:37:26.216Z",
   "items": [
+    {
+      "title": "Serve mTLS protected web assets on Screenly Player",
+      "link": "https://www.screenly.io/blog/2026/06/29/mtls-protected-web-assets-screenly-player/",
+      "date": "2026-06-29T00:00:00.000Z",
+      "description": "<p>If you&rsquo;ve been running internal dashboards on Screenly, you&rsquo;ve probably bumped into the same problem everyone does eventually: the content that would actually be useful to display is s…"
+    },
     {
       "title": "Connect Screenly players to 802.1x networks",
       "link": "https://www.screenly.io/blog/2026/06/23/connect-screenly-players-to-802.1x-networks/",
