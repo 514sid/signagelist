@@ -1,7 +1,19 @@
 {
   "source": "PRTV",
-  "fetched_at": "2026-07-02T08:19:00.726Z",
+  "fetched_at": "2026-07-03T08:17:08.612Z",
   "items": [
+    {
+      "title": "Меню борд &#8212; кафе восточный стиль",
+      "link": "https://s.prtv.su/menyu-bordy/kafe/menyu-bord-kafe-vostochnyj-stil-4",
+      "date": "2026-07-02T15:50:09.000Z",
+      "description": ""
+    },
+    {
+      "title": "Возможности PRTV для отелей, гостиниц и хостелов",
+      "link": "https://s.prtv.su/vozmozhnosti-prtv-dlya-otelej-gostinicz-i-hostelov",
+      "date": "2026-07-02T12:41:07.000Z",
+      "description": ""
+    },
     {
       "title": "Меню борд &#8212; детское-кафе авангард стиль",
       "link": "https://s.prtv.su/menyu-bordy/zakusochnaya/menyu-bord-detskoe-kafe-avangard-stil-4",
@@ -102,6 +114,12 @@
       "title": "Меню борд &#8212; автомат-кафе футуризм стиль",
       "link": "https://s.prtv.su/menyu-bordy/avtomat-kafe/menyu-bord-avtomat-kafe-futurizm-stil",
       "date": "2026-06-09T09:17:27.000Z",
+      "description": ""
+    },
+    {
+      "title": "Трансляция ассортимента выпечки с ценами на телевизоре в пекарне.",
+      "link": "https://s.prtv.su/otraslevye-resheniya/slajd-shou-vypechki-dlya-magazina-pekarni-ili-kafe",
+      "date": "2026-06-04T10:00:04.000Z",
       "description": ""
     },
     {
@@ -234,6 +252,12 @@
       "title": "Лунный календарь",
       "link": "https://s.prtv.su/informery/lunnyi-kalendar",
       "date": "2026-05-13T10:24:02.000Z",
+      "description": ""
+    },
+    {
+      "title": "Пивной меню борд",
+      "link": "https://s.prtv.su/news/pivnoj-menyu-bord",
+      "date": "2026-05-12T11:42:52.000Z",
       "description": ""
     },
     {

@@ -1,7 +1,13 @@
 {
   "source": "Intuiface",
-  "fetched_at": "2026-07-02T08:19:00.726Z",
+  "fetched_at": "2026-07-03T08:17:08.612Z",
   "items": [
+    {
+      "title": "Announcing: Experience Generator",
+      "link": "https://www.intuiface.com/blog/announcing-experience-generator",
+      "date": "2026-07-02T14:07:54.000Z",
+      "description": "Experience Generator turns a prompt into an original, touch-ready interactive experience, bootstrapping any project."
+    },
     {
       "title": "Your Screen Has Nothing to Say",
       "link": "https://www.intuiface.com/blog/your-screen-has-nothing-to-say",

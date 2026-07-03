@@ -1,7 +1,13 @@
 {
   "source": "Screenly",
-  "fetched_at": "2026-07-02T08:19:00.726Z",
+  "fetched_at": "2026-07-03T08:17:08.612Z",
   "items": [
+    {
+      "title": "We launched a free digital signage app library",
+      "link": "https://www.screenly.io/blog/2026/07/02/free-digital-signage-app-library/",
+      "date": "2026-07-02T00:00:00.000Z",
+      "description": "<p>Today we&rsquo;re launching <a href=&#34;https://signage-apps.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;>signage-apps.com</a>: 30 apps, free for anyone to use on any screen.<sup id=&#…"
+    },
     {
       "title": "Serve mTLS protected web assets on Screenly Player",
       "link": "https://www.screenly.io/blog/2026/06/29/mtls-protected-web-assets-screenly-player/",

@@ -1,7 +1,13 @@
 {
   "source": "Dise",
-  "fetched_at": "2026-07-02T08:19:00.726Z",
+  "fetched_at": "2026-07-03T08:17:08.612Z",
   "items": [
+    {
+      "title": "Interview with Arvid Berndtsson",
+      "link": "https://www.dise.com/interview-with-arvid-berndtsson/",
+      "date": "2026-07-02T12:30:00.000Z",
+      "description": "Arvid Berndtsson, explains why SOC 2 Type II matters for customers using the IXM platform and how it supports trust, scale and enterprise readiness. The post Interview with Arvid Berndtsson appeared …"
+    },
     {
       "title": "invidis: Dise and Scala combine reputation with recognition",
       "link": "https://www.dise.com/invidis-dise-and-scala-combine-reputation-with-recognition-interview-with-arvid-berndtsson/",
