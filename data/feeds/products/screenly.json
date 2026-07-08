@@ -1,7 +1,25 @@
 {
   "source": "Screenly",
-  "fetched_at": "2026-07-07T08:30:57.563Z",
+  "fetched_at": "2026-07-08T07:36:13.391Z",
   "items": [
+    {
+      "title": "Generate ScreenlyOS network configs without logging in",
+      "link": "https://www.screenly.io/blog/2026/07/07/network-config-generator/",
+      "date": "2026-07-07T00:00:00.000Z",
+      "description": "<p>We rebuilt our network configuration tool and moved it out of the dashboard onto the public site. You can generate a <code>network.yaml</code> file for any Screenly Player or DIY Raspberry Pi play…"
+    },
+    {
+      "title": "How to display login-protected web pages on digital signage",
+      "link": "https://www.screenly.io/blog/2026/07/07/display-login-protected-web-pages-digital-signage/",
+      "date": "2026-07-07T00:00:00.000Z",
+      "description": "<p>In this article, I want to show how you, as an end-user, can authenticate your own digital signage players against your own back-end infrastructure, so that content sitting behind a login can stil…"
+    },
+    {
+      "title": "Sign into Screenly with a Passkey",
+      "link": "https://www.screenly.io/blog/2026/07/06/sign-into-screenly-with-a-passkey/",
+      "date": "2026-07-06T00:00:00.000Z",
+      "description": "<p>Screenly now supports passkeys.</p> <p>You can sign in using your device&rsquo;s biometrics, PIN, or a hardware security key, with no password, no one-time code, and no email required.</p> <h2 id=…"
+    },
     {
       "title": "We launched a free digital signage app library",
       "link": "https://www.screenly.io/blog/2026/07/02/free-digital-signage-app-library/",
