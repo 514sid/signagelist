@@ -1,7 +1,19 @@
 {
   "source": "Screenly",
-  "fetched_at": "2026-07-10T08:31:04.368Z",
+  "fetched_at": "2026-07-11T07:17:54.771Z",
   "items": [
+    {
+      "title": "Anthias v2026.07.1",
+      "link": "https://www.screenly.io/blog/2026/07/10/anthias-v2026-07-1/",
+      "date": "2026-07-10T00:00:00.000Z",
+      "description": "<p>Anthias v2026.07.1 is a hardening release. The changes worth actually paying attention to are a security fix, a memory fix, and a nice addition: you can now browse signage-apps.com without leaving…"
+    },
+    {
+      "title": "Sunsetting API v3 on October 1, 2026",
+      "link": "https://www.screenly.io/blog/2026/07/10/sunsetting-api-v3/",
+      "date": "2026-07-10T00:00:00.000Z",
+      "description": "<p><strong>TL;DR:</strong> On <strong>October 1, 2026</strong>, we&rsquo;re switching off API v3 (<code>api.screenlyapp.com/api/v3/*</code>) for good. Everything moves to <strong>API v4.1</strong>, t…"
+    },
     {
       "title": "Generate ScreenlyOS network configs without logging in",
       "link": "https://www.screenly.io/blog/2026/07/07/network-config-generator/",
