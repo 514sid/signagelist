@@ -6,6 +6,7 @@ year_founded: 2000
 headquarters:
   - Germany
 open_source: false
+rss_feed_url: https://www.stino.biz/en/produkte/feed/
 self_signup: false
 discontinued: false
 categories:
