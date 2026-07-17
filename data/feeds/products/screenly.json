@@ -1,7 +1,13 @@
 {
   "source": "Screenly",
-  "fetched_at": "2026-07-16T07:29:53.738Z",
+  "fetched_at": "2026-07-17T07:25:26.960Z",
   "items": [
+    {
+      "title": "Screenly Sync 0x06: July updates from Screenly",
+      "link": "https://www.screenly.io/blog/2026/07/13/screenly-sync-0x06/",
+      "date": "2026-07-13T00:00:00.000Z",
+      "description": "<p>Welcome to the 7th edition of Screenly Sync, where we share the latest product and community updates from Screenly.</p> <p>June has been a big month for partnerships and platform security. We adde…"
+    },
     {
       "title": "Anthias v2026.07.1",
       "link": "https://www.screenly.io/blog/2026/07/10/anthias-v2026-07-1/",
