@@ -7,11 +7,14 @@ headquarters:
   - Canada
   - Spain
 open_source: false
+has_docs: true
+docs_url: https://hd.digitalsigns.ai/hc/dssupport
 self_signup: true
 discontinued: false
 categories:
   - CMS
 platforms:
+  - Amazon Signage
   - Android
   - ChromeOS
   - Fire OS
